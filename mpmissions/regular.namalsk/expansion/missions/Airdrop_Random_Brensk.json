@@ -1,0 +1,23 @@
+{
+    "Enabled": 1,
+    "Weight": 694.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_Brensk",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "DropLocation": {
+        "x": 4327.0,
+        "z": 5230.0,
+        "Name": "Brensk",
+        "Radius": 100.0
+    },
+    "Loot": [],
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1
+}

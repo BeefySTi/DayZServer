@@ -1,0 +1,8 @@
+20:45:39 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<8575.052734, 14.752161, 10520.133789>) Entered the safezone
+20:45:39 [Expansion Quests] - SetupClientData - Loaded existing player quest data for player with UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:45:39 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 20 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:45:39 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 23 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:45:39 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 26 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:45:39 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 27 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:49:59 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer
+20:53:08 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<8931.865234, 2.012499, 11331.049805>) Left the safezone

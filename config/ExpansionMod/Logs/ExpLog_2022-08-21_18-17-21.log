@@ -1,0 +1,15 @@
+18:18:17 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<8874.483398, 6.045691, 10599.192383>) Entered the safezone
+18:18:17 [Expansion Quests] - SetupClientData - Loaded existing player quest data for player with UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+18:18:17 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 20 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+18:18:17 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 23 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+18:18:17 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 26 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+18:18:17 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 27 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+18:22:40 [MissionAirdrop] An airdrop is heading towards "Tara Harbor" (pos=<7493.000000, 0.000000, 7577.000000> type=Random_Tara Harbor) with a ExpansionAirdropContainer
+18:25:41 [ATM Locker] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has deposited 90000 on his ATM account.
+18:26:33 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has send a requested to purchase tunacan x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+18:26:33 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has bought tunacan x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) for a price of 15.
+18:26:34 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has send a requested to purchase tunacan x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+18:26:34 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has bought tunacan x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) for a price of 15.
+18:26:34 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has send a requested to purchase tunacan x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+18:26:34 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has bought tunacan x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) for a price of 15.
+18:28:18 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<3592.103027, 154.575058, 6712.986328>) Left the safezone

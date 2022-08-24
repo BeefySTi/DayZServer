@@ -1,0 +1,10 @@
+20:01:43 [Expansion Quests] - SetupClientData - Loaded existing player quest data for player with UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:01:43 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 20 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:01:43 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 23 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:01:43 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 26 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:01:43 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 27 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:05:15 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<8591.572266, 21.703728, 10513.014648>) Entered the safezone
+20:05:52 [MissionAirdrop] An airdrop is heading towards "Tara Harbor" (pos=<7493.000000, 0.000000, 7577.000000> type=Random_Tara Harbor) with a ExpansionAirdropContainer_Basebuilding
+20:09:56 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has send a requested to sell expansiongoldbar x1 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+20:09:56 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has sold expansiongoldbar x1 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 10000.
+20:10:29 [ATM Locker] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has withdrawn 500 from his ATM account.

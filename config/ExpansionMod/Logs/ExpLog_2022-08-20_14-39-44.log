@@ -1,0 +1,9 @@
+14:40:03 [VehicleDestroyed] ExpansionBus_Red was destroyed at pos=<2907.426514, 332.249969, 7309.550781>
+14:40:58 [Expansion Quests] - SetupClientData - Created new persistent player quest data for player UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+14:41:21 [SpawnSelection] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) spawned at <2031.425415, 2.290743, 2150.743408>
+14:45:02 [MissionAirdrop] An airdrop is heading towards "Stary Sobor" (pos=<5823.000000, 0.000000, 7764.000000> type=Random_Stary Sobor) with a ExpansionAirdropContainer_Military
+14:54:16 [Expansion Quests] - CompleteQuest - Player with UID 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= has completed quest 19
+14:54:16 [Expansion Quests] - ExpansionQuest - Quest owner ID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+14:54:16 [Expansion Quests] - ExpansionQuest - Quest ID: 19
+14:54:16 [Expansion Quests] - ExpansionQuest - Quest state: 3
+14:54:16 [Expansion Quests] - ExpansionQuest - Quest completed: true

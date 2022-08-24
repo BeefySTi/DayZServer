@@ -1,0 +1,28 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+		"Money_Dollar1",
+		"Money_Dollar2",
+		"Money_Dollar5",
+		"Money_Dollar10",
+		"Money_Dollar20",
+		"Money_Dollar50",
+		"Money_Dollar100"
+    ],
+    "Categories": [
+        "Blouses_And_Suits",
+        "Coats_And_Jackets",
+        "Shirts_And_TShirts",
+        "Skirts_And_Dresses",
+        "Pants_And_Shorts",
+        "Boots_And_Shoes",
+		"MIGHTY'S MILITARY GEAR",
+		"Tactical Flava Pouch",
+		"Tactical Flava Vest"
+    ],
+    "Items": {}
+}

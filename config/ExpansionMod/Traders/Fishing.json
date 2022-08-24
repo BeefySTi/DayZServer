@@ -1,0 +1,24 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_FISHING",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
+    "TraderIcon": "Fishing",
+    "Currencies": [
+		"Money_Dollar1",
+		"Money_Dollar2",
+		"Money_Dollar5",
+		"Money_Dollar10",
+		"Money_Dollar20",
+		"Money_Dollar50",
+		"Money_Dollar100"
+    ],
+    "Categories": [
+        "Fishing"
+    ],
+    "Items": {
+        "carp": 1,
+        "mackerel": 1,
+        "sardines": 1
+    }
+}

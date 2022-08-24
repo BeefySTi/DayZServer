@@ -1,0 +1,72 @@
+{
+    "m_Version": 4,
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "ShowPlayerPosition": 1,
+    "ShowMapStats": 1,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 1,
+    "CanCreate3DMarker": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowDistanceOnPersonalMarkers": 1,
+    "EnableHUDGPS": 1,
+    "NeedGPSItemForKeyBinding": 1,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 1,
+    "ShowNameOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 1,
+    "ServerMarkers": [
+        {
+            "m_UID": "ServerMarker_Trader_Airfield",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Airsrip - Aircraft Trader",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                6305.0,
+                26.0,
+                9521.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Trader_Jalovisko",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Traders - Jalovisko Camp",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                8583.669921875,
+                29.0,
+                10515.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Trader_TaraHarbor",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Tara Harbor - Boats Trader",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                8043.4501953125,
+                10.0,
+                7593.4501953125
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        }
+    ],
+    "EnableHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 1,
+    "NeedGPSItemForHUDCompass": 1,
+    "CompassColor": -1,
+    "CreateDeathMarker": 1,
+    "PlayerLocationNotifier": 1
+}

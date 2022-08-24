@@ -1,0 +1,29 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
+    "TraderIcon": "Scrap Metal",
+    "Currencies": [
+		"Money_Dollar1",
+		"Money_Dollar2",
+		"Money_Dollar5",
+		"Money_Dollar10",
+		"Money_Dollar20",
+		"Money_Dollar50",
+		"Money_Dollar100"		
+    ],
+    "Categories": [
+        "Magazines",
+        "Muzzles",
+        "Bayonets",
+        "Optics",
+        "Buttstocks",
+        "Handguards",
+		"Tactical Flava Optics"
+    ],
+    "Items": {
+        "universallight": 1,
+        "tlrlight": 1
+    }
+}

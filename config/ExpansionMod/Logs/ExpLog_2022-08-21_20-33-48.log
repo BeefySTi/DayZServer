@@ -1,0 +1,11 @@
+20:35:23 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<8884.483398, 5.968638, 10594.400391>) Entered the safezone
+20:35:23 [Expansion Quests] - SetupClientData - Loaded existing player quest data for player with UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:35:23 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 20 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:35:23 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 23 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:35:23 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 26 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:35:23 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 27 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+20:35:34 [SpawnSelection] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) spawned at <7981.229004, 4.026991, 7395.474121>
+20:35:44 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<7981.126953, 3.058432, 7395.520020>) Left the safezone
+20:36:20 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<8552.249023, 27.592876, 10496.482422>) Entered the safezone
+20:39:08 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer_Basebuilding
+20:41:12 [ATM Locker] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has withdrawn 99000 from his ATM account.

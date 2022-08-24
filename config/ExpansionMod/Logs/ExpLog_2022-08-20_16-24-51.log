@@ -1,0 +1,7 @@
+16:26:09 [Expansion Quests] - SetupClientData - Loaded existing player quest data for player with UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:26:09 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 20 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:26:09 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 23 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:26:09 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 26 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:26:09 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 27 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:30:08 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<12018.110352, 140.000000, 12489.705078>) Entered the safezone
+16:30:09 [MissionAirdrop] An airdrop is heading towards "Myshkinko" (pos=<2036.000000, 0.000000, 7491.000000> type=Random_Myshkinko) with a ExpansionAirdropContainer_Basebuilding

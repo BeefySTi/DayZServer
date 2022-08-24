@@ -1,0 +1,12 @@
+16:15:06 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<8562.868164, 15.924829, 10515.391602>) Entered the safezone
+16:15:06 [Expansion Quests] - SetupClientData - Loaded existing player quest data for player with UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:15:06 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 20 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:15:06 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 23 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:15:06 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 26 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:15:06 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 27 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:19:30 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer_Military
+16:23:39 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<8642.333008, 7.941650, 10916.364258>) Left the safezone
+16:23:41 [Killfeed] BeefySTi commited suicide with SN M9.
+16:23:47 [Expansion Quests] - SetupClientData - Got cached player quest data for player with UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:24:07 [SpawnSelection] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) spawned at <7981.229004, 4.026991, 7395.474121>
+16:25:12 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<8639.912109, 7.833416, 10910.960938>) Entered the safezone

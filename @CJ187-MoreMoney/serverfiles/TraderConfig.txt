@@ -1,0 +1,51 @@
+<CurrencyName> #tm_ruble						
+	<Currency> Money_Ruble1,		1
+	<Currency> Money_Ruble2,		2
+	<Currency> Money_Ruble5_Coin,	5
+	<Currency> Money_Ruble10,		10
+	<Currency> Money_Ruble50,		50
+	<Currency> Money_Ruble100,		100
+	<Currency> Money_Ruble200,		200
+	<Currency> Money_Ruble500,		500
+	<Currency> Money_Ruble1000,		1000
+	<Currency> Money_Ruble2000,		2000
+	<Currency> Money_Ruble5000,		5000
+
+<Trader> Money Trader
+	<Category> MONEY EXCHANGE
+		EXCHANGE RUBLE,					*,		-1,		-1
+		Money_Ruble1,					1,		1,		-1
+		Money_Ruble2,					1,		2,		-1
+		Money_Ruble5_Coin,				1,		5,		-1
+		Money_Ruble10,					1,		10,		-1
+		Money_Ruble50,					1,		50,		-1
+		Money_Ruble100,					1,		100,	-1
+		Money_Ruble200,					1,		200,	-1
+		Money_Ruble500,					1,		500,	-1
+		Money_Ruble1000,				1,		1000,	-1
+		Money_Ruble2000,				1,		2000,	-1
+		Money_Ruble5000,				1,		5000,	-1
+		EXCHANGE DOLLAR,				*,		-1,		-1
+		Money_Dollar1,					1,		-1,		25
+		Money_Dollar2,					1,		-1,		50
+		Money_Dollar5,					1,		-1,		125
+		Money_Dollar10,					1,		-1,		250
+		Money_Dollar20,					1,		-1,		500
+		Money_Dollar50,					1,		-1,		1250
+		Money_Dollar100,				1,		-1,		2500
+		EXCHANGE EURO,					*,		-1,		-1
+		Money_Euro1,					1,		-1,		10
+		Money_Euro2,					1,		-1,		20
+		Money_Euro5,					1,		-1,		50
+		Money_Euro10,					1,		-1,		100
+		Money_Euro20,					1,		-1,		200
+		Money_Euro50,					1,		-1,		500
+		Money_Euro100,					1,		-1,		1000
+		Money_Euro200,					1,		-1,		2000
+		Money_Euro500,					1,		-1,		5000
+		EXCHANGE GOLD,					*,		-1,		-1
+		Coin,							1,		500,	500
+		GoldNuggetsmall,				1,		3000,	3000
+		Bitcoin,						*,		7500,	7500
+		GoldNugget,						*,		12500,	12500
+		Gold,							*,		25000,	25000

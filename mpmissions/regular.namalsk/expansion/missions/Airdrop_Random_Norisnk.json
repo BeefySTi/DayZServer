@@ -1,0 +1,23 @@
+{
+    "Enabled": 1,
+    "Weight": 534.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_Norisnk",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "DropLocation": {
+        "x": 3974.0,
+        "z": 7350.0,
+        "Name": "Norisnk",
+        "Radius": 100.0
+    },
+    "Loot": [],
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1
+}

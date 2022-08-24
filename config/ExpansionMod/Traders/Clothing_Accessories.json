@@ -1,0 +1,37 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+		"Money_Dollar1",
+		"Money_Dollar2",
+		"Money_Dollar5",
+		"Money_Dollar10",
+		"Money_Dollar20",
+		"Money_Dollar50",
+		"Money_Dollar100"
+    ],
+    "Categories": [
+        "Helmets",
+        "Caps",
+        "Hats_And_Hoods",
+        "Armbands",
+        "Backpacks",
+        "Eyewear",
+        "Gloves",
+        "Bandanas",
+        "Masks",
+        "Vests",
+        "Holsters_And_Pouches",
+        "Ghillies",
+        "Belts",
+		"Mighty's Military Gear Patches",
+		"MuchStuffPack Clothing and Backpacks",
+		"Tactical Flava Backpack",
+		"Tactical Flava Helmet",
+		"Tactical Flava NVG"
+    ],
+    "Items": {}
+}

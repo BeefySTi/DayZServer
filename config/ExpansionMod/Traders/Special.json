@@ -1,0 +1,34 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPECIAL",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
+    "TraderIcon": "Grenade",
+    "Currencies": [
+		"Money_Dollar1",
+		"Money_Dollar2",
+		"Money_Dollar5",
+		"Money_Dollar10",
+		"Money_Dollar20",
+		"Money_Dollar50",
+		"Money_Dollar100"
+    ],
+    "Categories": [
+        "Explosives_And_Grenades"
+    ],
+    "Items": {
+        "expansionammorpg": 1,
+        "nvgoggles": 1,
+        "nvgheadstrap": 1,
+        "ammo_expansion_m203_sticky_smoke_teargas": 1,
+        "battery9v": 1,
+        "expansionlaw": 1,
+        "expansionammolaw": 1,
+        "ammo_expansion_m203_sticky_smoke_white": 1,
+        "ammo_expansion_m203_smoke_white": 1,
+        "expansionrpg7": 1,
+        "ammo_expansion_m203_smoke_teargas": 1,
+        "rangefinder": 1,
+        "ammo_expansion_m203_he": 1
+    }
+}

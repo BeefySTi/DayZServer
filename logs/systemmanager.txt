@@ -1,0 +1,5 @@
+
+
+[2022-08-20 00:28:16] Initializing System Manager
+[2022-08-20 00:28:16] Node mode active on resume 0
+[2022-08-20 00:28:16] wifi power management: 1

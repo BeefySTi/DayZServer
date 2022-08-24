@@ -1,0 +1,10 @@
+name = "$STR_nam_mod_surv_name";
+picture = "nst/ns_dayz/gui/imagesets/namalsk_logo_survival_hover_co.edds";
+logoSmall = "nst/ns_dayz/gui/imagesets/namalsk_logo_survival_co.edds";
+logo = "nst/ns_dayz/gui/imagesets/namalsk_logo_survival_co.edds";
+logoOver = "nst/ns_dayz/gui/imagesets/namalsk_logo_survival_hover_co.edds";
+action = "http://namalsk.nightstalkers.cz/";
+tooltip = "$STR_nam_mod_surv_name";
+overview = "$STR_nam_mod_surv_overview";
+author = "Sumrak";
+hidePicture = 0;

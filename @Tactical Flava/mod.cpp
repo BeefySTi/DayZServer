@@ -1,0 +1,10 @@
+name = "Tactical Flava"; 								// name 
+picture = "script_a\logo.paa";			// picture in expanded description
+logoSmall = "script_a\logo.paa";	// icon next to mod name when description is not expanded
+logo = "script_a\logo.paa";				// logo below game menu
+logoOver = "script_a\logo.paa";	// on mouse hover over logo
+tooltip = "Tactical Flava";							// tool tip on mouse hover
+overview = ""; 						// overview
+action = "";					// link
+author = "Wayward Son";								// author
+version = "and friends";								// version

@@ -1,0 +1,10 @@
+name = "$STR_nam_mod_terrain_name";
+picture = "nst/namalsk/data/menu/namalsk_logo_island_co.edds";
+logoSmall = "nst/namalsk/data/menu/namalsk_logo_island_co.edds";
+logo = "nst/namalsk/data/menu/namalsk_logo_island_co.edds";
+logoOver = "nst/namalsk/data/menu/namalsk_logo_island_hover_co.edds";
+action = "http://namalsk.nightstalkers.cz/";
+tooltip = "$STR_nam_mod_terrain_name";
+overview = "$STR_nam_mod_terrain_overview";
+author = "Sumrak";
+hidePicture = 0;

@@ -1,0 +1,15 @@
+addons/
+dta/
+docs/
+battleye/
+mpmissions/dayzOffline.chernarusplus/storage_[0-9]*
+keys/
+!Workshop/
+
+DayZServer_x64.exe
+steam_api64.dll
+steamclient64.dll
+tier0_s64.dll
+vstdlib_s64.dll
+
+*.pbo

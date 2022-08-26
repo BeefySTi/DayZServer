@@ -1,0 +1,603 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\crash_2022-08-25_20-48-42.log started at 25.08. 20:48:59
+
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item gcgn_hk416 has already been added to category ID 4
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+[ExpansionMarketItem] The minimum stock must be lower than or equal to the maximum stock for 'bbp_t1_gatekit'
+Class:      'ExpansionMarketItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketitem.c:150
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:140
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+[ExpansionMarketItem] The minimum stock must be lower than or equal to the maximum stock for 'mp5_plastichndgrd'
+Class:      'ExpansionMarketItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketitem.c:150
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:140
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item gcgn_m249 has already been added to category Assault_Rifles (ID 4)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item snafum24_mag has already been added to category ID 47
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item snafu_lstandardized_suppressor_black has already been added to category ID 56
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item snafu_m14 has already been added to category Assault_Rifles (ID 4)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item gcgn_ammo_3006 has already been added to category Ammo (ID 1)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item snafu_sks_bayonet has already been added to category Bayonets (ID 9)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item snafu_gadar has already been added to category Handguards (ID 35)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item gcgn_m110_mag has already been added to category Magazines (ID 47)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item snafu_huntingoptic has already been added to category Optics (ID 58)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item sa58_stock has already been added to category Buttstocks (ID 14)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item gcgn_m1garand_supp has already been added to category Muzzles (ID 56)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item snafu_m14 has already been added to category Assault_Rifles (ID 4)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item snafu_awm_gun has already been added to category ID 75
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item m4_suppressor has already been added to category Muzzles (ID 56)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item tf_elcanspecterdroptic_fde has already been added to category Optics (ID 58)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item tf_an94 has already been added to category Assault_Rifles (ID 4)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+Item snafu_peq1_laser has already been added to category Snafu_Grips (ID 68)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+JSON ERROR:
+Invalid value.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/3_Game/tools\jsonfileloader.c:29
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarkettrader.c:85
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:255
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+JSON ERROR:
+Invalid value.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/3_Game/tools\jsonfileloader.c:29
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarkettrader.c:132
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:255
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+JSON ERROR:
+Invalid value.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/3_Game/tools\jsonfileloader.c:29
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarkettrader.c:85
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:255
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+RYANS-PC, 25.08 2022 20:48:59
+
+JSON ERROR:
+Invalid value.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/3_Game/tools\jsonfileloader.c:29
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarkettrader.c:132
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:255
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava;@BulletStacksPlusPlusEnhanced;@InventoryPlus;@InventoryPlusPlus cpuCount 2 dologs  adminlog  netlog  freezecheck  

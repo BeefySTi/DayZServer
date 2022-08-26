@@ -14,7 +14,8 @@
 		"Money_Dollar100"
     ],
     "Categories": [
-        "Explosives_And_Grenades"
+        "Explosives_And_Grenades",
+		"Launchers"
     ],
     "Items": {
         "expansionammorpg": 1,

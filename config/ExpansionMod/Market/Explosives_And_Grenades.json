@@ -7,22 +7,22 @@
     "Items": [
         {
             "ClassName": "rgd5grenade",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "m67grenade",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -33,7 +33,7 @@
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -44,7 +44,7 @@
             "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -55,40 +55,40 @@
             "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "improvisedexplosive",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "plastic_explosive",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "grenade_chemgas",
-            "MaxPriceThreshold": 600,
+            "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -99,7 +99,7 @@
             "MinPriceThreshold": 200,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
@@ -116,7 +116,7 @@
             "MinPriceThreshold": 260,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -127,7 +127,7 @@
             "MinPriceThreshold": 200,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
@@ -140,18 +140,18 @@
             "MinPriceThreshold": 1000000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "expansionsatchel",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 50000,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []

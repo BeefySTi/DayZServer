@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 19,
     "Type": 2,
     "Title": "Killed 10 Infected",
@@ -33,7 +33,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionSilverNugget",
-            "Amount": 100
+            "Amount": 100,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

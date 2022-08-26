@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 20,
     "Type": 2,
     "Title": "Killed 100 civilian Infected",
@@ -33,7 +33,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionSilverNugget",
-            "Amount": 500
+            "Amount": 500,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

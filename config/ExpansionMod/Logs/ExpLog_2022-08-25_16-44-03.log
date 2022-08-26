@@ -1,0 +1,17 @@
+16:45:50 [Expansion Quests] - SetupClientData - Loaded existing player quest data for player with UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:45:50 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 20 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:45:50 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 23 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:45:50 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 26 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:45:50 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 27 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:46:16 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<8523.370117, 14.934958, 10565.599609>) Entered the safezone
+16:49:32 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer
+16:55:50 [Safezone] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= pos=<8564.016602, 15.919762, 10515.273438>) Entered the safezone
+16:55:50 [Expansion Quests] - SetupClientData - Got cached player quest data for player with UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:55:50 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 20 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:55:50 [Expansion Quests] - PlayerQuestsInit - Create new quest instance for quest: 26 - Creator UID: 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=
+16:57:08 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has send a requested to sell expansiongoldbar x1 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+16:57:08 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has sold expansiongoldbar x1 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 10000.
+16:57:18 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has send a requested to sell expansiongoldbar x12 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+16:57:18 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has sold expansiongoldbar x12 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 120000.
+16:57:33 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has send a requested to purchase bbp_bedkit x1 from the trader "BuildingSupplies (Lewis [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+16:57:33 [Market] Player "BeefySTi" (id=7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo=) has bought bbp_bedkit x1 from the trader "BuildingSupplies (Lewis [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) for a price of 800.

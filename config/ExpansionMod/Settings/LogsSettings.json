@@ -1,5 +1,5 @@
 {
-    "m_Version": 5,
+    "m_Version": 6,
     "Safezone": 1,
     "AdminTools": 1,
     "ExplosionDamageSystem": 1,
@@ -7,6 +7,11 @@
     "VehicleTowing": 1,
     "VehicleLockPicking": 1,
     "VehicleDestroyed": 1,
+    "VehicleAttachments": 1,
+    "VehicleEnter": 1,
+    "VehicleLeave": 1,
+    "VehicleDeleted": 1,
+    "VehicleEngine": 1,
     "BaseBuildingRaiding": 1,
     "CodeLockRaiding": 1,
     "Territory": 1,

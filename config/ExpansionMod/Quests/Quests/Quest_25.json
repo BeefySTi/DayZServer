@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 25,
     "Type": 4,
     "Title": "Catch a Fish",
@@ -44,11 +44,13 @@
     "Rewards": [
         {
             "ClassName": "ExpansionSilverNugget",
-            "Amount": 10
+            "Amount": 10,
+            "Attachments": []
         },
         {
             "ClassName": "ImprovisedFishingRod",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

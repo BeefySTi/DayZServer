@@ -8,4 +8,4 @@ overview = "$STR_MOD_EXPANSION_DESC";
 action = "";
 author = "$STR_MOD_EXPANSION_AUTHOR";
 authorID = "";
-version = "1.7.8";
+version = "1.7.9";

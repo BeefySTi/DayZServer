@@ -22,8 +22,8 @@
             "m_Visibility": 6,
             "m_Is3D": 1,
             "m_Text": "Airsrip - Aircraft Trader",
-            "m_IconName": "Trader",
-            "m_Color": -13710223,
+            "m_IconName": "Helicopter",
+            "m_Color": -1,
             "m_Position": [
                 6305.0,
                 26.0,
@@ -52,12 +52,27 @@
             "m_Visibility": 6,
             "m_Is3D": 1,
             "m_Text": "Tara Harbor - Boats Trader",
-            "m_IconName": "Trader",
-            "m_Color": -13710223,
+            "m_IconName": "Boat",
+            "m_Color": -16776961,
             "m_Position": [
                 8043.4501953125,
                 10.0,
                 7593.4501953125
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_BMT",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Black Market Trader",
+            "m_IconName": "Skull 1",
+            "m_Color": -65536,
+            "m_Position": [
+                1921.329956,
+				8.429410,
+				6038.709961
             ],
             "m_Locked": 0,
             "m_Persist": 1

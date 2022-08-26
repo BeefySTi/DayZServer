@@ -1,0 +1,40 @@
+1. Replace the TraderObjects with the TraderObjects in your Server -> located in Trader Serverprofil/config folder. (If you dont use any other trader locations!)
+
+2. Open your Init, and place the Spawnhelper right at the start: 
+
+void SpawnObject( string type, vector position, vector orientation )
+{
+    auto obj = GetGame().CreateObject( type, position );
+    obj.SetPosition( position );
+    obj.SetOrientation( orientation );
+    obj.SetOrientation( obj.GetOrientation() ); //Collision fix
+    obj.Update();
+    obj.SetAffectPathgraph( true, false );
+    if( obj.CanAffectPathgraph() ) GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( GetGame().UpdatePathgraphRegionByObject, 100, false, obj );
+}
+
+
+void main()
+{	
+
+	/*
+	  [Namalsk] CE init (offline)
+	*/
+	CreateHive();
+	GetHive().InitOffline();
+
+
+The start of the init should look like this now.
+
+3. Place the objects from Trader txt right below "void main()  {":
+
+void main()
+{	
+
+//PLACE OBJECTS HERE
+
+	/*
+	  [Namalsk] CE init (offline)
+	*/
+	CreateHive();
+	GetHive().InitOffline();

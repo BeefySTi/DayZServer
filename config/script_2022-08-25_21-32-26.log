@@ -1,0 +1,605 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\script_2022-08-25_21-32-26.log started at 25.08. 21:32:27
+
+SCRIPT       : Registered 398 temporary action enum(s), UAN==398
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT    (W): @"script_a/Scripts/4_World/entities\manbase\playerbase.c,529": Missing ';' at the end of line
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m240.c,38": Missing ';' at the end of line
+SCRIPT    (W): @"script_a/Scripts/4_World/classes\recipes\pluginrecipesmanagerbase.c,14": Missing ';' at the end of line
+SCRIPT    (W): @"script_a/Scripts/4_World/classes\recipes\pluginrecipesmanagerbase.c,15": Missing ';' at the end of line
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m249.c,38": Missing ';' at the end of line
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\pkm.c,81": Missing ';' at the end of line
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\pkm.c,129": Missing ';' at the end of line
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\pkm.c,235": Missing ';' at the end of line
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\pkm.c,275": Missing ';' at the end of line
+SCRIPT    (W): @"MuchStuffPack/MSP_Scripts/4_World/codelock\actions\actioninteractlockonmsp.c,85": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"MuchStuffPack/MSP_Scripts/4_World/codelock\actions\actioninteractlockonmsp.c,90": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"script_a/Scripts/4_World/entities\manbase\playerbase.c,454": Unsafe down-casting, use 'FuckingFakeLight.Cast' for safe down-casting
+SCRIPT    (W): @"script_a/Scripts/4_World/entities\itembase\weapon\weapon_base.c,11": Unsafe down-casting, use 'TF_Bipod_Base.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\admintools\admintools.c,60": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuesptools\esptoolsmenu.c,286": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : Expansion version: 1.7.9
+SCRIPT       : 21:32:37.351 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 21:32:37.351 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 21:32:37.351 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 21:32:37.351 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 21:32:37.351 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 21:32:37.351 [EXPANSION DEBUG]: [ExpansionHardlineSettings] Load existing setting file:$mission:expansion\settings\HardlineSettings.json
+SCRIPT       : 21:32:37.359 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : 21:32:37.359 [EXPANSION DEBUG]: ~ExpansionMarketSettings
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 1 (Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 2 (Ammo_Boxes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 3 (Armbands)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 4 (Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 5 (Backpacks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 6 (Bandanas)
+SCRIPT    (E): 
+[ExpansionMarketItem] The minimum stock must be lower than or equal to the maximum stock for 'bbp_t1_gatekit'
+Class:      'ExpansionMarketItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketitem.c:150
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:140
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 7 (BASE BUILDING PLUS)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 8 (Batteries)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 9 (Bayonets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 10 (Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 11 (Blouses_And_Suits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 12 (Boats)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 13 (Boots_And_Shoes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 14 (Buttstocks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 15 (Caps)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 16 (Cars)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 17 (Coats_And_Jackets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 18 (Containers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 19 (Crossbows)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 20 (Drinks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 21 (Electronics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 22 (Event)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 23 (Exchange)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 24 (Explosives_And_Grenades)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 25 (Eyewear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 26 (Fish)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 27 (Fishing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 28 (Flags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 29 (Food)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 30 (Fruit_And_Vegetables)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 31 (Furnishings)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 32 (Gardening)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 33 (Ghillies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 34 (Gloves)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 35 (Handguards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 36 (Hats_And_Hoods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 37 (Helicopters)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 38 (Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 39 (Holsters_And_Pouches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 40 (Kits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 41 (Knifes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 42 (Launchers)
+SCRIPT    (E): 
+Item snafurpd has already been added to category ID 43
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 43 (LightMachineGuns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 44 (Lights)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 45 (Liquids)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 46 (Locks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 47 (Magazines)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 48 (Masks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 49 (Meat)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 50 (Medical)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 51 (Melee_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 52 (Mighty's Military Gear Patches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 53 (MIGHTY'S MILITARY GEAR)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 54 (MuchStuffPack Clothing and Backpacks (1))
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 55 (MuchStuffPack Storage)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 56 (Muzzles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 57 (Navigation)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 58 (Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 59 (Pants_And_Shorts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 60 (Pistols)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 61 (Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 62 (Shirts_And_TShirts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 63 (Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 64 (Skirts_And_Dresses)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 65 (Snafu_Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 66 (Snafu_Bipods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 67 (Snafu_Extras)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 68 (Snafu_Grips)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 69 (Snafu_Handguards)
+SCRIPT    (E): 
+Item snafum24_mag has already been added to category ID 70
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 70 (Snafu_Mags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 71 (Snafu_Scopes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 72 (Snafu_Stocks)
+SCRIPT    (E): 
+Item snafu_lstandardized_suppressor_black has already been added to category ID 73
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 73 (Snafu_Suppressors)
+SCRIPT    (E): 
+Item snafu_u100 has already been added to category LightMachineGuns (ID 43)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 74 (Snafu_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 75 (Sniper_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 76 (Spraycans)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 77 (Submachine_Guns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 78 (Supplies)
+SCRIPT    (E): 
+Item m4_suppressor has already been added to category Muzzles (ID 56)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 79 (Supressors)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 80 (Sweaters_And_Hoodies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 81 (Tactical Flava Attachments)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 82 (Tactical Flava Backpack)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 83 (Tactical Flava Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 84 (Tactical Flava NVG)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 85 (Tactical Flava Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 86 (Tactical Flava Vest)
+SCRIPT    (E): 
+[ExpansionMarketItem] The minimum stock must be lower than or equal to the maximum stock for 'tf_anzio20'
+Class:      'ExpansionMarketItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketitem.c:150
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:140
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 87 (Tactical Flava Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 88 (Tents)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 89 (Tools)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 90 (Vehicle_Parts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 91 (Vests)
+SCRIPT    (E): 
+Item universallight has already been added to category Lights (ID 44)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1095
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 92 (Weaponlights)
+SCRIPT       : 21:32:37.515 [EXPANSION DEBUG]: [ExpansionMarketTrader] Error: Category Tactical Flava Pouch does not exist!
+SCRIPT       : 21:32:37.539 [EXPANSION DEBUG]: [ExpansionMarketTrader] Error: Category MuchStuffPack Clothing and Backpacks does not exist!
+SCRIPT       : 21:32:37.539 [EXPANSION DEBUG]: [ExpansionMarketTrader] Error: Category Tactical Flava Helmet does not exist!
+SCRIPT    (E): JSON ERROR $CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT    (E): 
+JSON ERROR:
+Invalid value.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/3_Game/tools\jsonfileloader.c:29
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarkettrader.c:85
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:255
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT    (E): JSON ERROR $CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT    (E): 
+JSON ERROR:
+Invalid value.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/3_Game/tools\jsonfileloader.c:29
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarkettrader.c:132
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:255
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT    (E): JSON ERROR $CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT    (E): 
+JSON ERROR:
+Invalid value.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/3_Game/tools\jsonfileloader.c:29
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarkettrader.c:85
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:255
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT    (E): JSON ERROR $CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT    (E): 
+JSON ERROR:
+Invalid value.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/3_Game/tools\jsonfileloader.c:29
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarkettrader.c:132
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:255
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:7
+$CurrentDir:mpmissions\regular.namalsk\init.c:124
+SCRIPT       : 21:32:37.562 [EXPANSION DEBUG]: [ExpansionMarketTrader] Error: Category Snafu_Hamdguards does not exist!
+SCRIPT       : 21:32:37.609 [EXPANSION DEBUG]: [ExpansionAirdropSettings] Load existing setting file:$profile:ExpansionMod\Settings\AirdropSettings.json
+SCRIPT       : 21:32:37.648 [EXPANSION DEBUG]: [ExpansionMissionSettings] Load existing setting file:$profile:ExpansionMod\Settings\MissionSettings.json
+SCRIPT       : 21:32:37.648 [EXPANSION DEBUG]: [ExpansionNameTagsSettings] Load existing setting file:$profile:ExpansionMod\Settings\NameTagsSettings.json
+SCRIPT       : 21:32:37.648 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MapSettings.json
+SCRIPT       : 21:32:37.648 [EXPANSION DEBUG]: [ExpansionGeneralSettings] Load existing setting file:$profile:ExpansionMod\Settings\GeneralSettings.json
+SCRIPT       : 21:32:37.648 [EXPANSION DEBUG]: [ExpansionPlayerListSettings] Load existing setting file:$profile:ExpansionMod\Settings\PlayerListSettings.json
+SCRIPT       : 21:32:37.648 [EXPANSION DEBUG]: [ExpansionSocialMediaSettings] Load existing setting file:$profile:ExpansionMod\Settings\SocialMediaSettings.json
+SCRIPT       : 21:32:37.648 [EXPANSION DEBUG]: [ExpansionSpawnSettings] Load existing setting file:$mission:expansion\settings\SpawnSettings.json
+SCRIPT       : 21:32:37.656 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : 21:32:37.656 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 21:32:37.656 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 21:32:37.656 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : 21:32:37.664 [EXPANSION DEBUG]: [ExpansionChatSettings] Load existing setting file:$profile:ExpansionMod\Settings\ChatSettings.json
+SCRIPT       : 21:32:37.664 [EXPANSION DEBUG]: [ExpansionPartySettings] Load existing setting file:$profile:ExpansionMod\Settings\PartySettings.json
+SCRIPT       : [DefineTest] EXPANSIONMOD is defined
+SCRIPT       : [DefineTest] EXPANSIONMODANIMATIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBOOK is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCHAT is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGROUPS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMISSIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAMETAGS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAVIGATION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODWEAPONS is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : DZ_Expansion_Animations_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Book_Preload
+SCRIPT       : DZ_Expansion_Chat_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Groups_Preload
+SCRIPT       : DZ_Expansion_Hardline_Preload
+SCRIPT       : DZ_Expansion_KillFeed_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_Missions_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_NameTags_Preload
+SCRIPT       : DZ_Expansion_Navigation_Preload
+SCRIPT       : DZ_Expansion_Preload
+SCRIPT       : DZ_Expansion_Quests_Preload
+SCRIPT       : DZ_Expansion_SpawnSelection_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : DZ_Expansion_Weapons_Preload
+SCRIPT       : armor_a
+SCRIPT       : BBP_keybind
+SCRIPT       : CJ187_Gold
+SCRIPT       : CJ187_Money
+SCRIPT       : CodeLock
+SCRIPT       : DZ_DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : bliss
+SCRIPT       : GCGN_Guns
+SCRIPT       : grenades_a
+SCRIPT       : Guns_CFG
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : InventoryFixSolo
+SCRIPT       : MSP_Clothing_Data
+SCRIPT       : MSP_Retextures_Data
+SCRIPT       : MuchStuffPack
+SCRIPT       : MSP_Seasonal_Summer
+SCRIPT       : MSP_Signs_Data
+SCRIPT       : MSP_Sports_Data
+SCRIPT       : MSP_Storage_fridges
+SCRIPT       : MSP_Storage_boxes
+SCRIPT       : MSP_Storage_chests
+SCRIPT       : MSP_Storage_crates
+SCRIPT       : MSP_Storage_lockers
+SCRIPT       : MSP_Storage_otherstorage
+SCRIPT       : MSP_Storage_racks
+SCRIPT       : MSP_Storage_waterbarrels
+SCRIPT       : MSP_Toys_Data
+SCRIPT       : NamalskIsland
+SCRIPT       : NamalskSurvival
+SCRIPT       : optic_a
+SCRIPT       : script_a
+SCRIPT       : SNAFU_Guns
+SCRIPT       : SNAFU_Guns_01
+SCRIPT       : SNAFU_Guns_02CFG
+SCRIPT       : SNAFU_Guns_03_CFG
+SCRIPT       : SNAFU_Guns_05
+SCRIPT       : SNAFU_Guns_06
+SCRIPT       : SNAFU_Scopes
+SCRIPT       : SNAFU_Scripts
+SCRIPT       : SNAFU_WW2
+SCRIPT       : AVPPAdminTools
+SCRIPT       : weapon_a
+SCRIPT       : weapon_b
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : MSP_BaseBuilding
+SCRIPT       : MSP_Buildings_Data
+SCRIPT       : MSP_Deco
+SCRIPT       : MSP_Garden_Data
+SCRIPT       : MSP_Halloween
+SCRIPT       : MSP_Weapons_Data
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Hardline
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_Missions
+SCRIPT       : DZ_Expansion_NameTags
+SCRIPT       : DZ_Expansion_Navigation
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_PlayerList
+SCRIPT       : DZ_Expansion_Quests
+SCRIPT       : DZ_Expansion
+SCRIPT       : DZ_Expansion_SpawnSelection
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : DZ_Expansion_Weapons
+SCRIPT       : jpc_vest
+SCRIPT       : BaseBuildingPlus
+SCRIPT       : clothing_a
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_Book
+SCRIPT       : DZ_Expansion_Chat
+SCRIPT       : DZ_Expansion_Groups
+SCRIPT       : [BBP] 'BBP_Settings' found, loading...
+SCRIPT       : [MSP_Codelock_Config] '$profile:\CodeLock\MSP_CodeLockConfig.json' found, loading existing config!
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : 21:32:38.046 [EXPANSION DEBUG]: ModStorage v5
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 993 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : 21:32:40.429 [EXPANSION DEBUG]: ExpansionTraderDenis<6409e010>::SetTraderObject ExpansionTraderObjectBase<642511b0> <6297.701172, 20.696091, 9523.166016>
+SCRIPT       : 21:32:40.429 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderDenis<6409e010> fileName Aircraft
+SCRIPT       : 21:32:40.445 [EXPANSION DEBUG]: ExpansionTraderGabi<bff05420>::SetTraderObject ExpansionTraderObjectBase<643277b0> <1917.871460, 2.413756, 6037.526367>
+SCRIPT       : 21:32:40.445 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderGabi<bff05420> fileName Weapons
+SCRIPT       : 21:32:40.460 [EXPANSION DEBUG]: ExpansionTraderGuo<642d9680>::SetTraderObject ExpansionTraderObjectBase<64415cd0> <8599.360352, 14.725300, 10492.200195>
+SCRIPT       : 21:32:40.460 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderGuo<642d9680> fileName Vehicle_Parts
+SCRIPT       : 21:32:40.476 [EXPANSION DEBUG]: ExpansionTraderHassan<646a7010>::SetTraderObject ExpansionTraderObjectBase<64641b60> <8596.509766, 14.747800, 10488.000000>
+SCRIPT       : 21:32:40.476 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderHassan<646a7010> fileName Vehicles
+SCRIPT       : 21:32:40.484 [EXPANSION DEBUG]: ExpansionTraderIndar<a4764320>::SetTraderObject ExpansionTraderObjectBase<64782700> <8570.200195, 14.804744, 10531.799805>
+SCRIPT       : 21:32:40.484 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderIndar<a4764320> fileName Medicals
+SCRIPT       : 21:32:40.492 [EXPANSION DEBUG]: ExpansionTraderKaito<547d5020>::SetTraderObject ExpansionTraderObjectBase<6488eb80> <8566.829102, 15.935067, 10515.494141>
+SCRIPT       : 21:32:40.492 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderKaito<547d5020> fileName Exchange
+SCRIPT       : 21:32:40.507 [EXPANSION DEBUG]: ExpansionTraderLewis<b35e2df0>::SetTraderObject ExpansionTraderObjectBase<6ac94c60> <8564.556641, 15.914123, 10516.875000>
+SCRIPT       : 21:32:40.507 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLewis<b35e2df0> fileName BuildingSupplies
+SCRIPT       : 21:32:40.515 [EXPANSION DEBUG]: ExpansionTraderNaomi<6462c670>::SetTraderObject ExpansionTraderObjectBase<6ad71040> <8554.720703, 15.931895, 10524.275391>
+SCRIPT       : 21:32:40.515 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNaomi<6462c670> fileName Clothing
+SCRIPT       : 21:32:40.523 [EXPANSION DEBUG]: ExpansionTraderHelga<6ad8e010>::SetTraderObject ExpansionTraderObjectBase<6ae16c50> <8560.446289, 15.920970, 10521.180664>
+SCRIPT       : 21:32:40.523 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderHelga<6ad8e010> fileName Clothing_Accessories
+SCRIPT       : 21:32:40.539 [EXPANSION DEBUG]: ExpansionTraderLinda<a4ffd690>::SetTraderObject ExpansionTraderObjectBase<6af74510> <8571.715820, 14.824916, 10521.992188>
+SCRIPT       : 21:32:40.539 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLinda<a4ffd690> fileName Consumables
+SCRIPT       : 21:32:40.539 [EXPANSION DEBUG]: ExpansionTraderGabi<c6a9fd80>::SetTraderObject ExpansionTraderObjectBase<6af78de0> <8584.846680, 14.821787, 10534.984375>
+SCRIPT       : 21:32:40.539 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderGabi<c6a9fd80> fileName Weapons
+SCRIPT       : 21:32:40.546 [EXPANSION DEBUG]: ExpansionTraderIrena<6aee8010>::SetTraderObject ExpansionTraderObjectBase<6b0b5ac0> <8594.533203, 14.821795, 10529.988281>
+SCRIPT       : 21:32:40.546 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderIrena<6aee8010> fileName Attachments
+SCRIPT       : 21:32:40.562 [EXPANSION DEBUG]: ExpansionTraderQuinn<6b10c7f0>::SetTraderObject ExpansionTraderObjectBase<6b149b40> <8555.026367, 15.931314, 10514.249023>
+SCRIPT       : 21:32:40.562 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderQuinn<6b10c7f0> fileName Components
+SCRIPT       : 21:32:40.570 [EXPANSION DEBUG]: ExpansionTraderJudy<6b324010>::SetTraderObject ExpansionTraderObjectBase<6b35d4e0> <8630.750000, 16.608299, 10510.500000>
+SCRIPT       : 21:32:40.570 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderJudy<6b324010> fileName Fishing
+SCRIPT       : 21:32:40.585 [EXPANSION DEBUG]: ExpansionTraderPeter<ff8ccc00>::SetTraderObject ExpansionTraderObjectBase<6b4a6060> <8590.870117, 14.821789, 10534.200195>
+SCRIPT       : 21:32:40.585 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderPeter<ff8ccc00> fileName Special
+SCRIPT       : 21:32:40.593 [EXPANSION DEBUG]: ExpansionTraderMaria<ff8bb3b0>::SetTraderObject ExpansionTraderObjectBase<6b56d3c0> <8559.040039, 16.014900, 10511.099609>
+SCRIPT       : 21:32:40.593 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderMaria<ff8bb3b0> fileName Spraycans
+SCRIPT       : 21:32:40.601 [EXPANSION DEBUG]: ExpansionTraderBoris<ff8d3c20>::SetTraderObject ExpansionTraderObjectBase<6b61ca10> <8053.950195, 1.847600, 7595.729980>
+SCRIPT       : 21:32:40.601 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderBoris<ff8d3c20> fileName Boats
+SCRIPT       : 21:32:40.617 [EXPANSION DEBUG]: ExpansionTraderCyril<ff8d0410>::SetTraderObject ExpansionTraderObjectBase<6b73a700> <8050.020020, 2.791790, 7583.060059>
+SCRIPT       : 21:32:40.617 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderCyril<ff8d0410> fileName Vehicle_Parts
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'BeefyLocalDayZserver'
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<d6816fb0>
+SCRIPT       : int worth =   10000
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<d6817550>
+SCRIPT       : int worth =   100
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<d6817910>
+SCRIPT       : int worth =   10
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<d68170f0>
+SCRIPT       : int worth =   1
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<d6817730>
+SCRIPT       : int worth =   1
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<d68188b0>
+SCRIPT       : int worth =   2
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<d6817af0>
+SCRIPT       : int worth =   5
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<d6818090>
+SCRIPT       : int worth =   10
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<d6817b90>
+SCRIPT       : int worth =   20
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<d6817190>
+SCRIPT       : int worth =   50
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<d68172d0>
+SCRIPT       : int worth =   100
+SCRIPT       : ExpansionZoneCircle<c535c1c0> position=<8583.669922, 0.000000, 10515.000000> radius=400
+SCRIPT       : Found 1 zones!
+SCRIPT       : [VPPAT_IPIFY] cURL...returned: 74.215.121.9
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : [VPPAT] Player "BeefySTi" (steamId=76561198095923512) connected to server!
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionScriptedtQuestTemplate'
+Function: 'CreateObjective'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquest.c:158
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquest.c:127
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquest.c:91
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3496
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:1096
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:492
+JM/CF/Scripts/4_World/communityframework\module\cf_moduleworldevent.c:12
+JM/CF/Scripts/4_World/communityframework\module\cf_moduleworldmanager.c:16
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:65
+nst/ns_dayz/scripts/5_Mission/namalsksurvival\mission\missionserver.c:38
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:104
+BaseBuildingPlus/scripts/5_Mission/mission\missionserver.c:26
+scripts/5_Mission/mission\missionserver.c:273
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:10
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:53
+scripts/3_Game/dayzgame.c:1407
+DabsFramework/scripts/3_Game/dabsframework\dayzgame.c:60
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:97
+SCRIPT    (E): 
+ExpansionScriptedtQuestTemplate<cbc24230>::OnQuestContinue - Quest objectives not created!
+Class:      'ExpansionScriptedtQuestTemplate'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquest.c:671
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\scriptedquests\expansionscriptedtquesttemplate.c:66
+scripts/3_Game/dayzgame.c:2482
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:219
+SCRIPT       : [Permissions Manager] Admin (BeefySTi) (76561198095923512) Successfully Logged in!
+SCRIPT       : [Logout]: New player 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= with logout time 15
+SCRIPT       : Player "BeefySTi" (steamid=76561198095923512) disconnected from server.
+SCRIPT       : [VPPAT] Updating VPP Sync List! removed: 76561198095923512
+SCRIPT       : [emote] SurvivorM_Elias:021 play emote id=14 IH=null
+SCRIPT       : Player "BeefySTi" (steamid=76561198095923512) disconnected from server.
+SCRIPT       : [Logout]: Player 7CkZehxgJ5dv5KlEw4GEc06GoMEJ_nuGFDgIEx9kDOo= finished
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : 21:34:40.632 [EXPANSION DEBUG]: Clearing cached categories 92
+SCRIPT       : 21:34:40.632 [EXPANSION DEBUG]: Clearing cached traders 18
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : ~DayZGame()

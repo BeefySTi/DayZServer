@@ -11,7 +11,7 @@
 			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 100,
-			"MinStockThreshold": 1,
+			"MinStockThreshold": 100,
 			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "battery9v"

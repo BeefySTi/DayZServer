@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 24,
     "Type": 4,
     "Title": "Apple Juice",
@@ -37,7 +37,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionSilverNugget",
-            "Amount": 10
+            "Amount": 10,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 2,
     "Type": 2,
     "Title": "A favor for Steve...",
@@ -49,11 +49,13 @@
     "Rewards": [
         {
             "ClassName": "WaterBottle",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "TunaCan",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

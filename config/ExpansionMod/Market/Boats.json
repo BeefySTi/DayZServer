@@ -11,7 +11,7 @@
             "MinPriceThreshold": 22000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 10,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "truckbattery",
@@ -25,7 +25,7 @@
             "MinPriceThreshold": 22000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 10,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "truckbattery",

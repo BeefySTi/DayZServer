@@ -1,0 +1,33 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+
+// Black market:
+
+<TraderMarker>			6
+<TraderMarkerPosition>	1775.32,	2.254,	7170.76
+<TraderMarkerSafezone>	0
+<VehicleSpawn>			1770.17,	2.013,	7142.65
+<VehicleSpawnOri>		107,		0,			0
+
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+
+// Black market:
+
+<Object>			SurvivorF_Linda
+<ObjectPosition>	1775.32,	2.254,	7170.76
+<ObjectOrientation>	180,			0,			0
+<ObjectAttachment>	FirefighterAxe
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	M4A1
+<ObjectAttachment>	M4_RISHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	M4_OEBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	M4_Suppressor
+<ObjectAttachment>	OMNOGloves_Gray
+<ObjectAttachment>	MilitaryBeret_CDF
+<ObjectAttachment>	PlateCarrierVest
+<ObjectAttachment>	TTsKOJacket_Camo
+<ObjectAttachment>	TTSKOPants
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	AliceBag_Camo

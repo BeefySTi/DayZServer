@@ -16,7 +16,7 @@ title %serverName% batch
 cd "%serverLocation%"
 echo (%time%) %serverName% started.
 ::Launch parameters (edit end: -config=|-port=|-profiles=|-doLogs|-adminLog|-netLog|-freezeCheck|-filePatching|-BEpath=|-cpuCount=)
-start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-profiles=config" "-mod=@CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@Unlimited Stamina;@FlipTransport;@Morphine Fixes Broken Legs;@Saline Bag+;@MuchStuffPack;@Code Lock;@COCAs_NoVehicleDamageMOD;@Tactical Flava" -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
+start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-profiles=config" "-mod=@CF;@VPPAdminTools;@Namalsk Island;@Namalsk Survival;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@SNAFU Weapons;@CJ187-MoreMoney;@MMG - Mightys Military Gear;@BaseBuildingPlus;@MuchStuffPack;@Code Lock;@Tactical Flava" -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
 ::Time in seconds before kill server process (14400 = 4 hours)
 timeout 14390
 taskkill /im DayZServer_x64.exe /F

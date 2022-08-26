@@ -1,0 +1,34 @@
+MMPS BACKPACK:
+
+MMG_mmps_bag_black
+MMG_mmps_bag_green
+MMG_mmps_bag_tan
+MMG_mmps_bag_ucp
+MMG_mmps_bag_multicam
+MMG_mmps_bag_erdl
+MMG_mmps_bag_atacs
+MMG_mmps_bag_multicamblack
+MMG_mmps_bag_multicam_tropic
+MMG_mmps_bag_alpine
+MMG_mmps_bag_dark_woodland
+
+
+BALLISTIC EARCOVERS:
+
+MMG_ballistic_earcover_black
+MMG_ballistic_earcover_green
+MMG_ballistic_earcover_tan
+
+
+TACTICAL VISOR:
+
+MMG_tactical_visor_black
+MMG_tactical_visor_green
+MMG_tactical_visor_tan
+
+
+PATCHES
+
+MMG_patch_rubber_mex
+MMG_patch_rubber_por
+MMG_patch_rubber_wales

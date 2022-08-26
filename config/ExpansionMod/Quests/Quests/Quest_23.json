@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 23,
     "Type": 10,
     "Title": "Lockpick your first vehicle",
@@ -33,7 +33,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionSilverNugget",
-            "Amount": 500
+            "Amount": 500,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,
